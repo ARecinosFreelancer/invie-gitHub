@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* border: 10px solid #192b36; */
+
+}
+
+img {
+  max-width: 100%;
+  /* vertical-align: top; */
+  margin: 0;
+  padding:0;
+  /* display: none; */
+}
+
+img #responsive {
+  img#responsive {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px){
+  img #responsive{
+    display: block;
+  }
+}
