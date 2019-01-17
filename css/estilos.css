@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   /* border: 10px solid #192b36; */
 
 }
@@ -15,7 +15,9 @@ img {
 
 img #responsive {
   img#responsive {
-    display: none;
+    /* display: none; */
+    width: 100%;
+
   }
 }
 
