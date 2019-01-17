@@ -1,7 +1,12 @@
 body {
   margin: 0;
+<<<<<<< HEAD
   padding: 0;
   border: 10px solid #192b36;
+=======
+  /* padding: 0; */
+  /* border: 10px solid #192b36; */
+>>>>>>> master
 
 }
 
@@ -15,7 +20,13 @@ img {
 
 img #responsive {
   img#responsive {
+<<<<<<< HEAD
     display: none;
+=======
+    /* display: none; */
+    width: 100%;
+
+>>>>>>> master
   }
 }
 
